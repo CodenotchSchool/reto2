@@ -4,6 +4,15 @@
 
 
 
+
+// modificación funcion suma - tres parámetros
+function suma(n1,n2,n3) {
+    let res;
+    let suma = n1+n2+n3;
+    res = suma
+    return res;
+}
+
 function resta(num1, num2) {
     let res;
     let resta = num1-num2;
