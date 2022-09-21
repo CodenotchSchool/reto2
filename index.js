@@ -1,9 +1,9 @@
-//función suma borrada
+
 
 // modificación funcion suma - tres parámetros
-function suma(num1, num2, num3) {
+function suma(n1,n2,n3) {
     let res;
-    let suma = num1+num2+num3;
+    let suma = n1+n2+n3;
     res = suma
     return res;
 }
